@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bb6df38c-6a60-430e-9164-7e7b27794f92" name="Default Changelist" comment="" />
+    <list default="true" id="bb6df38c-6a60-430e-9164-7e7b27794f92" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/CursoFlask.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/CursoFlask.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flaskblog.py" beforeDir="false" afterPath="$PROJECT_DIR$/flaskblog.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,20 +15,37 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1WXgVMbVJOYkchscmbME1Zhqmck" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../snippets" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -48,7 +69,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1579301375877</updated>
-      <workItem from="1579301382251" duration="840000" />
+      <workItem from="1579301382251" duration="2627000" />
+      <workItem from="1579404280859" duration="1369000" />
     </task>
     <servers />
   </component>
@@ -56,9 +78,18 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="449" y="152" key="SettingsEditor" timestamp="1579301534198">
+    <state x="275" y="289" width="424" height="484" key="FileChooserDialogImpl" timestamp="1579405191098">
       <screen x="0" y="27" width="1920" height="1010" />
     </state>
-    <state x="449" y="152" key="SettingsEditor/1920.0.1920.1080/0.27.1920.1010@0.27.1920.1010" timestamp="1579301534198" />
+    <state x="275" y="289" width="424" height="484" key="FileChooserDialogImpl/0.27.1920.1010@0.27.1920.1010" timestamp="1579405191098" />
+    <state x="449" y="152" key="SettingsEditor" timestamp="1579405289998">
+      <screen x="0" y="27" width="1920" height="1010" />
+    </state>
+    <state x="449" y="152" key="SettingsEditor/0.27.1920.1010@0.27.1920.1010" timestamp="1579405289998" />
+    <state x="449" y="152" key="SettingsEditor/1920.0.1920.1080/0.27.1920.1010@0.27.1920.1010" timestamp="1579303254564" />
+    <state x="616" y="358" key="com.intellij.ide.util.TipDialog" timestamp="1579404307165">
+      <screen x="0" y="27" width="1920" height="1010" />
+    </state>
+    <state x="616" y="358" key="com.intellij.ide.util.TipDialog/0.27.1920.1010@0.27.1920.1010" timestamp="1579404307165" />
   </component>
 </project>
