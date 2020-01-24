@@ -1,4 +1,4 @@
-#!/home/russo/CursoFlask/venv/bin/python3
+#!/home/server/cursoFlask/venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys

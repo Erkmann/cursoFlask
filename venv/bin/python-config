@@ -1,4 +1,4 @@
-#!/home/russo/CursoFlask/venv/bin/python
+#!/home/server/cursoFlask/venv/bin/python
 
 import sys
 import getopt
